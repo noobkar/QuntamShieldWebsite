@@ -20,11 +20,13 @@ export default function PrivacyPolicyPage() {
             <h2>Information We Collect</h2>
             <p>We are committed to the principle of minimizing data collection. We collect only what is necessary to provide our VPN service and continuously improve user experience.</p>
             <h3>Account Information</h3>
-            <p>When you create an account, we collect:</p>
-            <ul>
-              <li>Email address (for account management and communication)</li>
-              <li>Payment information (processed securely by our payment providers)</li>
-            </ul>
+<p>When you create an account, we collect:</p>
+<ul>
+  <li>Email address (for account management and communication)</li>
+  <li>Name (for login authentication purposes only)</li>
+  <li>Payment information (processed securely by our payment providers)</li>
+</ul>
+<p><strong>We collect your email address and name solely for login authentication purposes. This information is not used for any other purpose and is not shared with third parties except as required for authentication or by law.</strong></p>
             <h3>VPN Usage Data</h3>
             <p>We maintain a strict no-logs policy for VPN connections. This means:</p>
             <ul>
