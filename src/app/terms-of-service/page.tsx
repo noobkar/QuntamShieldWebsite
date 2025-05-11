@@ -13,7 +13,7 @@ export default function TermsOfServicePage() {
           </div>
           <div className="terms-section">
             <h2>1. Acceptance of Terms</h2>
-            <p>These Terms of Service ("Terms") govern your access to and use of QuantumShield VPN services, including our website, applications, and network ("Service"). By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Service.</p>
+            <p>These Terms of Service (&quot;Terms&quot;) govern your access to and use of QuantumShield VPN services, including our website, applications, and network (&quot;Service&quot;). By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Service.</p>
           </div>
           <div className="terms-section">
             <h2>2. Service Description</h2>
@@ -74,7 +74,7 @@ export default function TermsOfServicePage() {
           </div>
           <div className="terms-section">
             <h2>7. Disclaimer of Warranties</h2>
-            <p>THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
+            <p>THE SERVICE IS PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
             <p>WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED. WE DO NOT WARRANT THAT THE RESULTS OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE.</p>
             <p>NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US OR THROUGH THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.</p>
           </div>
@@ -91,7 +91,7 @@ export default function TermsOfServicePage() {
           </div>
           <div className="terms-section">
             <h2>9. Indemnification</h2>
-            <p>You agree to defend, indemnify, and hold harmless QuantumShield VPN, its directors, employees, partners, agents, suppliers, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney's fees) arising from:</p>
+            <p>You agree to defend, indemnify, and hold harmless QuantumShield VPN, its directors, employees, partners, agents, suppliers, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney&apos;s fees) arising from:</p>
             <ul>
               <li>Your use of and access to the Service</li>
               <li>Your violation of any term of these Terms</li>
@@ -113,7 +113,7 @@ export default function TermsOfServicePage() {
           </div>
           <div className="terms-section">
             <h2>11. Changes to Terms</h2>
-            <p>We reserve the right to modify or replace these Terms at any time at our sole discretion. The most current version of these Terms will be posted on our website with the "Last updated" date. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect.</p>
+            <p>We reserve the right to modify or replace these Terms at any time at our sole discretion. The most current version of these Terms will be posted on our website with the &quot;Last updated&quot; date. If a revision is material, we will provide at least 30 days&apos; notice prior to any new terms taking effect.</p>
             <p>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, you are no longer authorized to use the Service.</p>
           </div>
           <div className="terms-section">
@@ -123,7 +123,7 @@ export default function TermsOfServicePage() {
           <div className="terms-section">
             <h2>13. Dispute Resolution</h2>
             <p>Any dispute arising from or relating to the subject matter of these Terms shall be finally settled by arbitration in [Your City, Country], using the English language in accordance with the Arbitration Rules and Procedures of [Relevant Arbitration Association] then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes.</p>
-            <p>The prevailing party in any arbitration or other legal action arising out of these Terms shall be entitled to receive, in addition to any other relief, reasonable attorneys' fees and costs.</p>
+            <p>The prevailing party in any arbitration or other legal action arising out of these Terms shall be entitled to receive, in addition to any other relief, reasonable attorneys&apos; fees and costs.</p>
           </div>
           <div className="terms-section">
             <h2>14. Severability</h2>

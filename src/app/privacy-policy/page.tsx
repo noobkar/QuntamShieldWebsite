@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
           </div>
           <div className="policy-section">
             <h2>Introduction</h2>
-            <p>QuantumShield VPN ("we", "our", or "us") is dedicated to protecting your privacy and handling your data with transparency. This Privacy Policy describes the information we collect, how we use it, and the choices you have regarding your data when you use our VPN services, visit our website, or interact with our applications.</p>
+            <p>QuantumShield VPN (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is dedicated to protecting your privacy and handling your data with transparency. This Privacy Policy describes the information we collect, how we use it, and the choices you have regarding your data when you use our VPN services, visit our website, or interact with our applications.</p>
             <p>By using our services, you agree to the practices described in this Privacy Policy. If you do not agree with our policies and practices, you should not use our services.</p>
           </div>
           <div className="policy-section">
@@ -102,7 +102,7 @@ export default function PrivacyPolicyPage() {
             <p>Most web browsers are set to accept cookies by default. You can choose to set your browser to remove or reject cookies, but this may affect the functionality of our website.</p>
           </div>
           <div className="policy-section">
-            <h2>Children's Privacy</h2>
+            <h2>Children&apos;s Privacy</h2>
             <p>Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children. If you become aware that a child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information from our servers.</p>
           </div>
           <div className="policy-section">
@@ -111,7 +111,7 @@ export default function PrivacyPolicyPage() {
           </div>
           <div className="policy-section">
             <h2>Changes to This Privacy Policy</h2>
-            <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+            <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the &quot;Last updated&quot; date.</p>
             <p>We encourage you to review this Privacy Policy periodically for any changes. Your continued use of our services after the changes have been made will constitute your acceptance of the changes.</p>
           </div>
           <div className="policy-section">
