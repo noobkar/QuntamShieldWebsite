@@ -1,0 +1,70 @@
+.header {
+  background-color: white;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+.headerContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logoImg {
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  border-radius: 10px;
+  margin-right: 10px;
+  position: relative;
+}
+.logoImg::after {
+  content: "";
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.logoText {
+  font-weight: 700;
+  font-size: 22px;
+  color: var(--dark);
+}
+.logoText span {
+  color: var(--primary);
+}
+.navMenu {
+  display: flex;
+}
+.navMenu li {
+  margin-left: 30px;
+}
+.navMenu li a {
+  font-weight: 500;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+.navMenu li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  transition: width 0.3s ease;
+}
+.navMenu li a:hover::after {
+  width: 100%;
+}
